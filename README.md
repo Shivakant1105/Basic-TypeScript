@@ -16,13 +16,12 @@ After installing TypeScript, navigate to the directory containing your TypeScrip
 Compile the TypeScript file using the TypeScript Compiler (tsc):
 
 
-tsc basic.ts
+  tsc basic.ts
 This will generate a corresponding JavaScript file (basic.js).
 
 Run the compiled JavaScript file using Node.js:
+  node basic.js
 
-
-node basic.js
 This will execute the JavaScript file and display the output.
 
 Notes
