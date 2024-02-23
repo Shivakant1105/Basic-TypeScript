@@ -26,7 +26,7 @@ This will execute the JavaScript file and display the output.
 Notes
 Make sure to replace basic.ts with the actual name of your TypeScript file if it's different.
 
-If you encounter any issues during installation or execution, refer to the official TypeScript documentation for troubleshooting.
+If you encounter any issues during installation or execution, refer to the official [TypeScript documentation](https://www.typescriptlang.org/)for troubleshooting.
 
 
 
